@@ -1,0 +1,10 @@
+com\genpact\library\repository\LibraryRepository.class
+com\genpact\library\service\LibraryService.class
+com\genpact\library\repository\BookRepository.class
+com\genpact\library\controller\BookController.class
+com\genpact\library\SwaggerConfig.class
+com\genpact\library\controller\LibraryController.class
+com\genpact\library\service\BookService.class
+com\genpact\library\model\Book.class
+com\genpact\library\LibraryServiceApplication.class
+com\genpact\library\model\Library.class
